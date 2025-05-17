@@ -1,0 +1,11 @@
+###GET
+GET http://localhost:5000/students
+Content-Type: application/json
+
+{
+    "rollNo": "23071A05P5"
+}
+
+###
+GET http://localhost:5000/
+
